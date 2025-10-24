@@ -12,7 +12,6 @@ This project predicts YouTube video engagement using two machine learning models
 
 ## Files
 - `Project1_445.ipynb` — Main Google Colab notebook
-- `/data/` — Contains datasets and generated plots
 
 ## How to Run
 Open the notebook in **Google Colab**, run all cells sequentially, and view saved results in the `/data/` folder.
